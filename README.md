@@ -1,6 +1,6 @@
 Mastering Social Media Mining with Python
 =========================================
-
+Add pdf book (16/03/2018)
 Code repository for _Mastering Social Media Mining with Python_ (July 2016)
 
 <img src="https://github.com/bonzanini/Book-SocialMediaMiningPython/blob/master/book-cover.jpg" alt="Book cover" width="200" />
